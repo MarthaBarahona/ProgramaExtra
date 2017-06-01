@@ -1,0 +1,5 @@
+[client]
+database = ProgramSS
+user = root
+password = nb11001
+default-character-set = utf8
